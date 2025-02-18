@@ -1,0 +1,4 @@
+sample	forward	reverse
+S3_Arab_Full_S15	.test/S3_Arab_Full_S15_R1_001.fastq.gz	.test/S3_Arab_Full_S15_R2_001.fastq.gz
+S6_Arab_Full_S18	.test/S6_Arab_Full_S18_R1_001.fastq.gz	.test/S6_Arab_Full_S18_R2_001.fastq.gz
+S9_Arab_Full_S21	.test/S9_Arab_Full_S21_R1_001.fastq.gz	.test/S9_Arab_Full_S21_R2_001.fastq.gz

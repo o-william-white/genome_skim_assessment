@@ -1,0 +1,12 @@
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - snakemake-minimal >=8.4.4
+  - jinja2 =3.1.2
+  - networkx =3.1
+  - matplotlib =3.7.1
+  - graphviz =8.0.5
+  - pandas =2.0.1
+  - pygments =2.18.0
+  - snakemake-executor-plugin-slurm =0.11.2

@@ -1,0 +1,12 @@
+# path to sample list
+samples: config/sample_list.txt
+
+# reference ftp path
+reference_path: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/001/735/GCF_000001735.4_TAIR10.1/
+
+# reference name
+reference_name: GCF_000001735.4_TAIR10.1_genomic.fna.gz
+
+# window size
+window_size: 1000
+

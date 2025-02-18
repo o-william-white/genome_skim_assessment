@@ -1,0 +1,26 @@
+include: "rules/common.smk"
+include: "rules/fastp.smk"
+#include: "rules/wget_reference.smk"
+#include: "rules/bgzip_reference.smk"
+#include: "rules/samtools_faidx.smk"
+#include: "rules/bedtools_makewindows.smk"
+#include: "rules/bwa_index.smk"
+include: "rules/bwa_mem_puc19.smk"
+include: "rules/picard_markduplicates.smk"
+include: "rules/picard_collectgcbiasmetrics_puc19.smk"
+include: "rules/samtools_index.smk"
+include: "rules/mosdepth_puc19.smk"
+include: "rules/plot_mosdepth.smk"
+include: "rules/sample_stats.smk"
+
+rule all:
+    input:
+        expand(
+            "results/mosdepth/global_coverage.png",
+            sample=sample_data.index.tolist()
+        ),
+        expand(
+            "results/mosdepth/region_coverage.png",
+            sample=sample_data.index.tolist()
+        ),
+        "results/sample_stats/sample_stats.txt"

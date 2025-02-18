@@ -1,0 +1,9 @@
+sample	forward	reverse
+S11_Ecoli_1in5_S11	../data_miseq_skim/241017_M02300_0112_000000000-DM8BR_ANALYSIS/FASTQ_raw/S11_Ecoli_1in5_S11_R1_001.fastq.gz	../data_miseq_skim/241017_M02300_0112_000000000-DM8BR_ANALYSIS/FASTQ_raw/S11_Ecoli_1in5_S11_R2_001.fastq.gz
+S11_Ecoli_Full_S23	../data_miseq_skim/241017_M02300_0112_000000000-DM8BR_ANALYSIS/FASTQ_raw/S11_Ecoli_Full_S23_R1_001.fastq.gz	../data_miseq_skim/241017_M02300_0112_000000000-DM8BR_ANALYSIS/FASTQ_raw/S11_Ecoli_Full_S23_R2_001.fastq.gz
+S2_Ecoli_1in5_S2	../data_miseq_skim/241017_M02300_0112_000000000-DM8BR_ANALYSIS/FASTQ_raw/S2_Ecoli_1in5_S2_R1_001.fastq.gz	../data_miseq_skim/241017_M02300_0112_000000000-DM8BR_ANALYSIS/FASTQ_raw/S2_Ecoli_1in5_S2_R2_001.fastq.gz
+S2_Ecoli_Full_S14	../data_miseq_skim/241017_M02300_0112_000000000-DM8BR_ANALYSIS/FASTQ_raw/S2_Ecoli_Full_S14_R1_001.fastq.gz	../data_miseq_skim/241017_M02300_0112_000000000-DM8BR_ANALYSIS/FASTQ_raw/S2_Ecoli_Full_S14_R2_001.fastq.gz
+S5_Ecoli_1in5_S5	../data_miseq_skim/241017_M02300_0112_000000000-DM8BR_ANALYSIS/FASTQ_raw/S5_Ecoli_1in5_S5_R1_001.fastq.gz	../data_miseq_skim/241017_M02300_0112_000000000-DM8BR_ANALYSIS/FASTQ_raw/S5_Ecoli_1in5_S5_R2_001.fastq.gz
+S5_Ecoli_Full_S17	../data_miseq_skim/241017_M02300_0112_000000000-DM8BR_ANALYSIS/FASTQ_raw/S5_Ecoli_Full_S17_R1_001.fastq.gz	../data_miseq_skim/241017_M02300_0112_000000000-DM8BR_ANALYSIS/FASTQ_raw/S5_Ecoli_Full_S17_R2_001.fastq.gz
+S8_Ecoli_1in5_S8	../data_miseq_skim/241017_M02300_0112_000000000-DM8BR_ANALYSIS/FASTQ_raw/S8_Ecoli_1in5_S8_R1_001.fastq.gz	../data_miseq_skim/241017_M02300_0112_000000000-DM8BR_ANALYSIS/FASTQ_raw/S8_Ecoli_1in5_S8_R2_001.fastq.gz
+S8_Ecoli_Full_S20	../data_miseq_skim/241017_M02300_0112_000000000-DM8BR_ANALYSIS/FASTQ_raw/S8_Ecoli_Full_S20_R1_001.fastq.gz	../data_miseq_skim/241017_M02300_0112_000000000-DM8BR_ANALYSIS/FASTQ_raw/S8_Ecoli_Full_S20_R2_001.fastq.gz
